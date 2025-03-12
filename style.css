@@ -124,7 +124,14 @@ button {
 .button-add:hover {
     background-color: #a1a1a1;
 }
-
+.button-remove{
+    padding: 8px;
+    text-align: center;
+    border-radius: 0px;
+    color: red;
+    border: 2px solid black;
+    cursor: pointer;
+}
 /* Listas */
 ul {
     list-style-type: none;
